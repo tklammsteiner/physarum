@@ -1,0 +1,15 @@
+name: "Physarum polycephalum"
+navbar:
+  title: "Physarum polycephalum"
+  left:
+    - text: "About"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:thomas.klammsteiner@uibk.ac.at
+    - icon: fa-home fa-lg
+      href: https://www.mikrobalpina.org/
+output_dir: "docs"
+output:
+  html_document:
+    theme: default
